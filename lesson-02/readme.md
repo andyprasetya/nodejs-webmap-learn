@@ -1,5 +1,5 @@
 # Lesson 2
-## Serving static HTML file
+## Serving static HTML file (and a CSS file)
 
 To install and run:
 ```
