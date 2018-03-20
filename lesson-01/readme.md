@@ -1,4 +1,4 @@
-# Lesson 01
+# Lesson 1
 ## Bootstrap the first app using Express
 
 To install and run:
