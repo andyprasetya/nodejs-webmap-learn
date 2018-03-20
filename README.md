@@ -11,7 +11,7 @@ So, let's start from the scratch.
 ```
 # npm update -g npm
 ```
-3. Install [nodemon]() package via NPM command:
+3. Install [nodemon](http://nodemon.io/) package via NPM command:
 ```
 # npm install -g nodemon
 ```
