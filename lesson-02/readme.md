@@ -30,7 +30,7 @@ app.listen(3000, function () {
 <!doctype html>
 <html>
     <head>
-        <title>Lesson 02</title>
+        <title>Lesson 2</title>
         <link rel="stylesheet" href="./css/style.css"/>
     </head>
     <body>
