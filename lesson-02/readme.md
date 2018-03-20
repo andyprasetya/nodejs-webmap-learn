@@ -34,7 +34,8 @@ app.listen(3000, function () {
         <link rel="stylesheet" href="./css/style.css"/>
     </head>
     <body>
-        <p>Hello world!</p>
+        <h1>Hello world!</h1>
+        <p>This is a static HTML file with a CSS file included.</p>
     </body>
 </html>
 ```
