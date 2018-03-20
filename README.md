@@ -7,7 +7,7 @@ Wait, ...what about [R](https://www.r-project.org/), especially [R Spatial](http
 So, let's start from the scratch.
 
 1. Install [NodeJS](https://nodejs.org/en/).
-2. Update [NPM](https://www.npmjs.com/) which is installed automatically when installing NodeJS, by issuing command:
+2. Update [NPM](https://www.npmjs.com/) which is installed automatically when installing NodeJS, by issuing command (as a superuser/root):
 ```
 # npm update -g npm
 ```
