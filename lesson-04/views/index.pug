@@ -1,0 +1,14 @@
+extends layout/_index
+append body
+	p= title
+	hr
+	button(id='buttonAlert', type='button') Button Alert
+	button(id='buttonAjax', type='button') Get Dynamic Data
+	button(id='buttonDefault', type='button') Get Default Data
+	hr
+	pre(id='ajax')
+	hr
+	p.
+		To see data service in action, click -> #[a(href='http://localhost:3000/data-service') localhost:3000/data-service].
+append scripts
+	script(src='./js/app.js', type='text/javascript')
