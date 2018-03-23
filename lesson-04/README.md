@@ -1,7 +1,7 @@
 # Lesson 4
 ## Creating a router-level middleware to separate views and data services
 
-In this lesson we separate views and data services by using Express' built-in [Router()](https://expressjs.com/en/guide/writing-middleware.html). Also, 
+In this lesson we separate views and data services by using Express' built-in [Router()](https://expressjs.com/en/guide/writing-middleware.html). Also, we will learn how to include a JavaScript into the index page, and create some functions to manipulate the data services.
 
 
 To install and run:
