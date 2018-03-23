@@ -53,3 +53,15 @@ extends layout/_index
 append body
     p= title
 ```
+
+[public/css/style.css]():
+```
+* {
+    box-sizing: border-box;
+}
+html, body {
+    margin: 0;
+    min-height: 100%;
+    background-color: #DEDEDE;
+}
+```
