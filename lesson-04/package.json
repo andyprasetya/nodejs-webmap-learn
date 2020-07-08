@@ -21,9 +21,9 @@
   },
   "homepage": "https://github.com/andyprasetya/nodejs-webmap-learn#readme",
   "dependencies": {
-    "express": "^4.16.3",
-    "npm": "^5.7.1",
-    "path": "^0.12.7",
-    "pug": "^2.0.2"
+    "express": "latest",
+    "npm": "latest",
+    "path": "latest",
+    "pug": "latest"
   }
 }
